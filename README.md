@@ -3,6 +3,15 @@
   <img src="./banner-light.svg" alt="Manwell Clark: Sr. Technical Program Manager · IT Portfolio Manager · AI Program Lead, open to remote roles" width="100%">
 </picture>
 
+<details>
+<summary><sub>◐ <b>Switch view</b>: see the other theme</sub></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-light.svg">
+  <img src="./banner-dark.svg" alt="Alternate theme banner" width="100%">
+</picture>
+</details>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open_to_remote_roles-62B6DC?style=for-the-badge&labelColor=0B0F17" alt="Open to remote roles">
   <img src="https://img.shields.io/badge/Work_style-Remote_·_multi--time--zone_teams-62B6DC?style=for-the-badge&labelColor=0B0F17" alt="Remote, multi-time-zone teams">
