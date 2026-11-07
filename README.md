@@ -1,15 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
-  <img src="./banner-light.svg" alt="Manwell Clark: Sr. Technical Program Manager · IT Portfolio Manager · AI Program Lead, open to remote roles" width="100%">
-</picture>
+<img src="./banner-light.svg" alt="Manwell Clark: Sr. Technical Program Manager · IT Portfolio Manager · AI Program Lead, open to remote roles" width="100%">
 
 <details>
-<summary><sub>◐ <b>Switch view</b>: see the other theme</sub></summary>
+<summary><sub>◐ <b>Switch view</b>: see the dark version</sub></summary>
 <br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner-light.svg">
-  <img src="./banner-dark.svg" alt="Alternate theme banner" width="100%">
-</picture>
+<img src="./banner-dark.svg" alt="Dark version of the banner" width="100%">
 </details>
 
 <p align="center">
